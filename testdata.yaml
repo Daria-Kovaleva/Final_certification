@@ -1,0 +1,4 @@
+login: alexkotov
+password: f0e11fe665
+website: https://test-stand.gb.ru/gateway/login
+website_get_user_profile: https://test-stand.gb.ru/api/users/profile/
